@@ -4,7 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         // made by Youssef Danial Elwi
-        // ID : 41810056
         // run this main twice to have two users
         // Also you can create as much as you want
         // allow multiple instance
